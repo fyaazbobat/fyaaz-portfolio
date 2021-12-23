@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'AWS Coivd Website',
+    title: 'AWS Covid Website',
     description: "Develop a API to Dynamodb and RDS, impliment Auto Mapper, CRUD, http get methods, and a client page. Also publish to AWS Elastic Beanstalk",
     image: '/images/1.png',
     tags: ['C#', 'ASP.NET', 'AWS'],
