@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'AWS RDS Movide CRUD',
+    title: 'AWS RDS Movie CRUD',
     description: "Using ASP.NET created a movie website that is full CRUD. The site uses DynamoDB, S3 and Elastic Beanstalk.",
     image: '/images/4.png',
     tags: ['C#', 'ASP.NET', 'AWS'],
