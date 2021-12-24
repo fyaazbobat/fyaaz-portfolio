@@ -56,7 +56,7 @@ export const projects = [
   {
     title: 'AWS GUI',
     description: "Use AWS IAM and DynamoDB to create a WPF app. The App creates a DynamoDB table to store the book and list them from user",
-    image: '/images/7.png',
+    image: '/images/seven.png',
     tags: ['C#', 'AWS', 'DynamoDB'],
     source: 'https://github.com/fyaazbobat/fyaazLab2AWSGUI/tree/master',
     visit: 'https://github.com/fyaazbobat/fyaazLab2AWSGUI/tree/master',
@@ -65,7 +65,7 @@ export const projects = [
   {
     title: 'Logistic Regression (Titanic DataSet)',
     description: "This is a inclass lab for Logistic Regression on the Titanic Dataset",
-    image: '/images/8.png',
+    image: '/images/eight.png',
     tags: ['Python', 'Sklearn', 'Numpy'],
     source: 'https://github.com/fyaazbobat/DataLabTitanicLogisticRegression',
     visit: 'https://github.com/fyaazbobat/DataLabTitanicLogisticRegression',
